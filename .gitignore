@@ -1,0 +1,43 @@
+# ---- Build output ----
+target/
+build/
+out/
+bin/
+
+# ---- IDE specific ----
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ---- OS specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs and temp files ----
+*.log
+*.tmp
+*.swp
+
+# ---- Maven / Gradle ----
+.mvn/
+.settings/
+.classpath
+.project
+
+# ---- Environment / config ----
+*.env
+*.properties.local
+*.yml.local
+
+# ---- IntelliJ cache ----
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+
+# ---- VSCode ----
+.vscode/
+
+# ---- Java ----
+*.class
