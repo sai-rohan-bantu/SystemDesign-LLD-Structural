@@ -1,0 +1,8 @@
+com\example\Adapters\SmartLightAdapter.class
+com\example\Devices\AirConditioner.class
+com\example\Main.class
+com\example\Adapters\CoffeeMachineAdapter.class
+com\example\Adapters\SmartDevice.class
+com\example\Devices\SmartLight.class
+com\example\Adapters\AirConditionerAdapter.class
+com\example\Devices\CoffeeMachine.class
