@@ -26,6 +26,5 @@ public class Main {
         smartLight.turnOff();
         coffeeMachine.turnOff();
 
-
     }
 }
