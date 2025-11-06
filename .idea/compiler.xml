@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Adapter-Design-Pattern" />
         <module name="Facade-Design-Pattern" />
+        <module name="Decorator-Design-Pattern" />
         <module name="Composite-Design-Pattern" />
       </profile>
     </annotationProcessing>

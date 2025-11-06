@@ -13,6 +13,7 @@
         <module>Adapter-Design-Pattern</module>
         <module>Composite-Design-Pattern</module>
         <module>Facade-Design-Pattern</module>
+        <module>Decorator-Design-Pattern</module>
     </modules>
 
     <properties>
