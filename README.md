@@ -11,6 +11,9 @@ This Repo is Collection of Structural Design Patterns
 <img width="1058" height="505" alt="image" src="https://github.com/user-attachments/assets/efdd0046-9149-4407-a069-7f3c00076892" />
 <h1> Proxy Design Pattern </h1>
 <img width="1073" height="476" alt="image" src="https://github.com/user-attachments/assets/ee75b8ac-5dfd-4205-92d2-26eb2d8026d4" />
+<h1> Flyweight Design Pattern </h1>
+<img width="1063" height="432" alt="image" src="https://github.com/user-attachments/assets/1443a6a3-320f-4988-a23c-8f30195d9403" />
+
 
 
 
