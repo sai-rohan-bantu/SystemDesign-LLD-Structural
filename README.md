@@ -7,5 +7,8 @@ This Repo is Collection of Structural Design Patterns
 <img width="1055" height="487" alt="image" src="https://github.com/user-attachments/assets/dbea3162-0550-43f8-b487-417c6c727fe1" />
 <h1> Decorator Design Pattern </h1>
 <img width="1071" height="501" alt="image" src="https://github.com/user-attachments/assets/9caaa4bf-b096-4b5b-a99d-6a5872fb8e04" />
+<h1> Bridge Design Pattern </h1>
+<img width="1058" height="505" alt="image" src="https://github.com/user-attachments/assets/efdd0046-9149-4407-a069-7f3c00076892" />
+
 
 
